@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\mmk\\src\\HxTagHelpers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxtaghelpers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxtaghelpers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxtaghelpers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxtaghelpers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxvalsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxvalsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxheadersoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxheadersoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxheadersoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxheadersoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxincludeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxincludeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxattributetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxattributetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxrequestoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxrequestoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxdisabledeltoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxdisabledeltoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxswapoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxswapoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxincludeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxincludeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxsyncoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxsyncoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxrequestoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxrequestoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxdisabledeltoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxdisabledeltoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxswapoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxswapoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxattributetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxattributetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxsyncoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxsyncoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxvalsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxvalsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxtargetoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxtargetoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxtargetoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxtargetoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxtriggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxtriggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\hxtriggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\hxtriggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\ioptions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41566838-A5B5-4E9F-B5DC-3F5F8BEA8DF6}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\ioptions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|c:\\users\\mmk\\src\\hxtaghelpers\\hxtaghelpers\\ioptions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4CD65-E266-A9DF-3A00-287D563E4FA3}|HxTagHelpers\\HxTagHelpers.csproj|solutionrelative:hxtaghelpers\\ioptions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HxHeadersOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxHeadersOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxHeadersOptions.cs",
@@ -106,12 +106,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxHeadersOptions.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAEwCAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:17:26.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:17:26.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "HxIncludeOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxIncludeOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxIncludeOptions.cs",
@@ -119,12 +118,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxIncludeOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:17:21.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:17:21.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "HxRequestOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxRequestOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxRequestOptions.cs",
@@ -132,12 +130,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxRequestOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:17:17.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:17:17.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "HxSwapOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxSwapOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxSwapOptions.cs",
@@ -145,12 +142,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxSwapOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:17:12.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:17:12.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "HxSyncOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxSyncOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxSyncOptions.cs",
@@ -158,12 +154,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxSyncOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:17:07.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:17:07.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HxDisabledEltOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxDisabledEltOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxDisabledEltOptions.cs",
@@ -171,12 +166,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxDisabledEltOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:15:36.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:15:36.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HxAttributeTagHelper.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxAttributeTagHelper.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxAttributeTagHelper.cs",
@@ -184,12 +178,11 @@
               "RelativeToolTip": "HxTagHelpers\\HxAttributeTagHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:14:55.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:14:55.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "HxValsOptions.cs",
               "DocumentMoniker": "C:\\Users\\mmk\\src\\HxTagHelpers\\HxTagHelpers\\HxValsOptions.cs",
               "RelativeDocumentMoniker": "HxTagHelpers\\HxValsOptions.cs",
@@ -197,8 +190,7 @@
               "RelativeToolTip": "HxTagHelpers\\HxValsOptions.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAEwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:15:46.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:15:46.301Z"
             },
             {
               "$type": "Document",
@@ -210,8 +202,7 @@
               "RelativeToolTip": "HxTagHelpers\\HxTargetOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:17:00.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:17:00.85Z"
             },
             {
               "$type": "Document",
@@ -223,8 +214,7 @@
               "RelativeToolTip": "HxTagHelpers\\HxTriggerOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:16:54.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:16:54.478Z"
             },
             {
               "$type": "Document",
@@ -236,8 +226,7 @@
               "RelativeToolTip": "HxTagHelpers\\IOptions .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:16:41.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T13:16:41.831Z"
             }
           ]
         }

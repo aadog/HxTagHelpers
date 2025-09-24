@@ -4,11 +4,9 @@ using System.Text.Json;
 
 namespace HxTagHelpers
 {
-
-    [HtmlTargetElement("div")]
+    [HtmlTargetElement("*")]
     public class HxAttributeTagHelper:TagHelper
     {
-   
         [HtmlAttributeName("hx-get")]
         public string? HxGet { get; set; }
         [HtmlAttributeName("hx-post")]
